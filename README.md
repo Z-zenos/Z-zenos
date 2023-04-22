@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z-zenos&label=Profile%20views&color=0e75b6&style=flat" alt="z-zenos" /> </p>
 
-- 🌱 I’m currently learning **Angular, Dart, Flutter, React, Node.js**
+- 🌱 I’m currently learning **Angular, MongoDB, React, Node.js**
 
 - 💬 Ask me about **C, JavaScript**
 
